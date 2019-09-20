@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my personal mainpage 
 
-You can use the [editor on GitHub](https://github.com/RobinWenqian/WenqianHe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Wenqian's self-introdution. It is all about his education experience, research experience, professional experience and something related to leadership. 
 
 ### Markdown
 
