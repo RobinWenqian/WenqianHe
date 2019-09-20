@@ -2,9 +2,15 @@
 
 This is Wenqian's self-introdution. It is all about his education experience, research experience, professional experience and something related to leadership. 
 
-### Markdown
+## Education Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Undergraguate - Shanghai Jiao Tong University - School of Mechanical Engineering    China    Aug 2015 - Jul 2019
+* Bachelor in Energy and Power Engineering (__Tsien Hsue-Shen honors program__) (__top 5% students out of 400__)
+* Completed __IBM Block chain Foundation__ for Developers training track and received certification from IBM Digital Credential
+* Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition
+
+### Postgraduate - the University of Edinburgh - School of Informatics    UK    Sept 2019 - Sept 2020
+* Master in Computer Science specialized in __machine learning algorithms and practice__.
 
 ```markdown
 Syntax highlighted code block
