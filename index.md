@@ -10,13 +10,13 @@ Aug 2015 - Jul 2019
 * Completed __IBM Block chain Foundation__ for Developers training track and received certification from IBM Digital Credential
 * Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition
 
-<div align=center>![sjtu](/images/sjtu.jpeg)</div>
+<div align="center">![sjtu](/images/sjtu.jpeg)</div>
 
 ### Postgraduate - the University of Edinburgh - School of Informatics UK   
 Sept 2019 - Sept 2020
 * Master in Computer Science specialized in __machine learning algorithms and practice__.
 
-![UoE](/images/UoE.jpeg)
+<div align="center">![uoe](/images/UoE.jpeg)</div>
 
 ## Research Experience
 **Image Captioning** | University of Manchester | Research Assistant       
