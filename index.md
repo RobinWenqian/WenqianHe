@@ -13,7 +13,13 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 ### Postgraduate - the University of Edinburgh - School of Informatics  UK  Sept 2019 - Sept 2020
 * Master in Computer Science specialized in __machine learning algorithms and practice__.
 
-```markdown
+## Research Experience
+**Image Captioning** | University of Manchester | Research Assistant | Jun 2018 - Jul 2019
+Advisor: Tingting Mu, Assistant Professor, School of Computer Science, University of Manchester
+* Designed new loss function to serve as punishment to penalize general and ‘safe’ but non-discriminating captions of images and simultaneously improved the BLAU evaluation by 4%-7% compared with similar methods
+* Designed new cyclic supervision algorithm in order to generate discriminative captions whose results were more distinguishing based on human evaluation
+* Improved the training process of image captioning by calculating BLAU value among generating captions and captions in the dataset to find similar caption, which benefits for pushing descriptions of similar images away by certain distance
+
 Syntax highlighted code block
 
 # Header 1
@@ -29,7 +35,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
