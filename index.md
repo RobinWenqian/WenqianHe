@@ -63,10 +63,8 @@ Jun 2017 - Dec 2017
 * English (fluent) and Chinese (native language）
 * Proficient in **Python, MATLAB, C/C++** and specialized in **TensorFlow, Pytorch and Keras**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobinWenqian/WenqianHe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact Information
+* Private e-mail address: vincent_wq@outlook.com
+* School e-mail address(**valid before sept-2020**): s1946842@ed.ac.uk
+* Tel(in UK, **valid before sept-2020**): (+44)07780280823
+* Tel(in China):(+86)15821936809
