@@ -58,22 +58,10 @@ Jun 2017 - Dec 2017
 * Wrote SSD test script using Python
 * Used MATLAB and Python to analyze SSD business trend and sales
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Professional Skills
+* Solid **mathematical derivation ability** and good comprehension of **machine learning theory**
+* English (fluent) and Chinese (native language）
+* Proficient in **Python, MATLAB, C/C++** and specialized in **TensorFlow, Pytorch and Keras**
 
 ### Jekyll Themes
 
