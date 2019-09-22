@@ -4,13 +4,13 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 
 ## Education Experience
 
-### Undergraguate - Shanghai Jiao Tong University - School of Mechanical Engineering  China  Aug 2015 - Jul 2019
+### Undergraguate - Shanghai Jiao Tong University - School of Mechanical Engineering China Aug 2015-Jul 2019
 * Bachelor in Energy and Power Engineering (__Tsien Hsue-Shen honors program__) (__top 5% students out of 400__)
 * Completed __IBM Block chain Foundation__ for Developers training track and received certification from IBM Digital Credential
 * Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition
-  ![sjtu](https://github.com/RobinWenqian/WenqianHe/blob/master/sjtu.jpg)
+  [sjtu](https://github.com/RobinWenqian/WenqianHe/blob/master/sjtu.jpg)
 
-### Postgraduate - the University of Edinburgh - School of Informatics  UK  Sept 2019 - Sept 2020
+### Postgraduate - the University of Edinburgh - School of Informatics UK Sept 2019-Sept 2020
 * Master in Computer Science specialized in __machine learning algorithms and practice__.
 
 ## Research Experience
@@ -27,6 +27,17 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 * Designed an unsupervised learning framework to improve the Rank1 accuracy of Person Re-ID by approximately 9%-11% compared with state-of-the-art methods by extracting disentangled latent features of images of pedestrians
 * Implemented CycleGAN, PTGAN and PNGAN with pytorch to generate samples of various qualities
 
+
+**EEG signal Analysis Based on Deep Learning Method** | Shanghai Jiao Tong University | Researcher Sept 2017 - Present   
+**Advisor**: Baoliang Lv, Professor, School of Computer Science, IEEE Fellow, Shanghai Jiao Tong University
+* Combined attention model with sequential segmentation in EEG signal analysis to increase the accuracy of determining how long participants slept on average by 50% to 65%
+* Utilized deep mutual learning method that combined several light RNN models to increase the accuracy of supervised learning framework to determine how many hours participants slept last night by 9%-11%
+
+
+**Design Control Algorithm of Unmanned Aerial Vehicle** | Shanghai Jiao Tong University | Researcher Feb 2016 - Nov 2017   
+**Advisor**: Professor Xiangyang Zhu, Professor and Dean of Robotics Institute, Shanghai Jiao Tong University
+* Designed rapid detection of UAV failure state algorithm based on machine learning method to help the UAV react from failure within 25ms-40ms
+* Obtained two invention patents in mini UAV framework designing and control system of micro UAV
 Syntax highlighted code block
 
 # Header 1
