@@ -14,11 +14,18 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 * Master in Computer Science specialized in __machine learning algorithms and practice__.
 
 ## Research Experience
-**Image Captioning** | University of Manchester | Research Assistant | Jun 2018 - Jul 2019
-Advisor: Tingting Mu, Assistant Professor, School of Computer Science, University of Manchester
+**Image Captioning** | University of Manchester | Research Assistant | Jun 2018 - Jul 2019   
+**Advisor**: Tingting Mu, Assistant Professor, School of Computer Science, University of Manchester
 * Designed new loss function to serve as punishment to penalize general and ‘safe’ but non-discriminating captions of images and simultaneously improved the BLAU evaluation by 4%-7% compared with similar methods
 * Designed new cyclic supervision algorithm in order to generate discriminative captions whose results were more distinguishing based on human evaluation
 * Improved the training process of image captioning by calculating BLAU value among generating captions and captions in the dataset to find similar caption, which benefits for pushing descriptions of similar images away by certain distance
+
+
+**Person Re-ID** | Shanghai Jiao Tong University | Research Assistant | Dec 2017 - Jul 2019   
+**Advisor**: Hongtao Lu, Professor, School of Computer Science, Shanghai Jiao Tong University
+* Did large quantities of experiments on how to use generated samples in the unsupervised learning framework and found that if average labels are given to the generated samples before putting them into training data, samples of lower quality counter-intuitively will improve the results of Re-ID more by 5%-7% on mAP (accuracy evaluation of Person Re-ID)
+* Designed an unsupervised learning framework to improve the Rank1 accuracy of Person Re-ID by approximately 9%-11% compared with state-of-the-art methods by extracting disentangled latent features of images of pedestrians
+* Implemented CycleGAN, PTGAN and PNGAN with pytorch to generate samples of various qualities
 
 Syntax highlighted code block
 
