@@ -8,8 +8,8 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 Aug 2015 - Jul 2019
 * Bachelor in Energy and Power Engineering (__Tsien Hsue-Shen honors program__) (__top 5% students out of 400__)
 * Completed __IBM Block chain Foundation__ for Developers training track and received certification from IBM Digital Credential
-* Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition   
-  <center>![sjtu](/images/sjtu.jpeg)
+* Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition     
+  ![sjtu](/images/sjtu.jpeg)
 
 ### Postgraduate - the University of Edinburgh - School of Informatics UK   
 Sept 2019 - Sept 2020
