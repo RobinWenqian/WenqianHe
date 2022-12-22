@@ -48,8 +48,19 @@ Sept 2017 - Aug 2018
 Apr 2022 - now
 * **Machine learning multi-factor stock selection structure construction**: Built a multi-factor stock selection model pool based on Random Forest and Xgboost.
 * **Stock selection strategy based on intraday data**: Built a series of daily frequency stock selection strategies that describe intraday minutes’ return distribution, volatility and jump stripping. The annualized return of long-short backtest performance reached more than 30% and the maximum drawdown was within 10% while annual sharpe ratio reached 2.5.
+
+***Backtest results of intraday minutes' return distribution stock selection strategy. Daily turnover***
+![hs300 reinforcement backtest result of intraday minutes' return distribution](/images/mixg_hs300rein.png)
+
+***Backtest results of intraday minutes' return volatility stock selection strategy. Daily turnover***
+![long short backtest result of intraday minutes' return volatility](/images/vaguedis_longshort.png)
+
+***Backtest results of intraday minutes' return jump stripping stock selection strategy. Daily turnover***
+![long short backtest result of intraday minutes' return jump](/images/jump_longshort.png)
+
 * **Stock selection strategy based on crossday data**: Built enhanced version of the reverse daily frequency stock selection strategy based on the daily frequency price volume and turnover rate data. The annual return rate of was 15%, the maximum retracement was 12% and the average annualized Sharpe was 1.2 in long-short backtest.
 
+![hs300 reinforcement backtest result of crossday reverse](/images/ftbcoin_hs300.png)
 
 **Probability Investment Management Co., Ltd.** | Quantitive Researcher | Shanghai 
 Jan 2021 - Mar 2022
