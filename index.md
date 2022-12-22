@@ -7,14 +7,15 @@ This is Wenqian's self-introdution. It is all about his education experience, re
 ### Undergraguate - Shanghai Jiao Tong University - School of Mechanical Engineering China   
 Aug 2015 - Jul 2019
 * Bachelor in Energy and Power Engineering (__Tsien Hsue-Shen honors program__) (__top 5% students out of 400__)
-* Completed __IBM Block chain Foundation__ for Developers training track and received certification from IBM Digital Credential
-* Ranked __1st out of 32 teams from China__ in 1st High Resolution UAV competition   
+* Completed **IBM Block chain Foundation** for Developers training track and received certification from IBM Digital Credential
+* Obtained **four patents** in Unmanned Aeronautical Vehicle control system designing and Brain Machine Interface  
 
 ![sjtu](/images/sjtu.jpeg)
 
 ### Postgraduate - the University of Edinburgh - School of Informatics UK   
-Sept 2019 - Sept 2020
+Sept 2019 - Dec 2020
 * Master in Computer Science specialized in __machine learning algorithms and practice__          
+* Became Teaching Assistant of lesson Introductory Applied Machine Learning and lesson Software Engineering
 
 ![uoe](/images/UoE.jpeg)
 
@@ -42,17 +43,25 @@ Sept 2017 - Aug 2018
 * Utilized deep mutual learning method that combined several light RNN models to increase the accuracy of supervised learning framework to determine how many hours participants slept last night by 9%-11%
 
 
-**Design Control Algorithm of Unmanned Aerial Vehicle** | Shanghai Jiao Tong University | Researcher    
-Feb 2016 - Nov 2017   
-**Advisor**: Professor Xiangyang Zhu, Professor and Dean of Robotics Institute, Shanghai Jiao Tong University
-* Designed rapid detection of UAV failure state algorithm based on machine learning method to help the UAV react from failure within 25ms-40ms
-* Obtained two invention patents in mini UAV framework designing and control system of micro UAV
-
 ## Working Experience
-**Youtu Computer Vision Lab**, Tencent, Shanghai | Deep Learning and Computer Vision Intern     
+**Pinpoint Fund** | Quantitive Researcher | Shanghai 
+Apr 2022 - now
+* **Machine learning multi-factor stock selection structure construction**: Built a multi-factor stock selection model pool based on Random Forest and Xgboost.
+* **Stock selection strategy based on intraday data**: Built a series of daily frequency stock selection strategies that describe intraday minutes’ return distribution, volatility and jump stripping. The annualized return of long-short backtest performance reached more than 30% and the maximum drawdown was within 10% while annual sharpe ratio reached 2.5.
+* **Stock selection strategy based on crossday data**: Built enhanced version of the reverse daily frequency stock selection strategy based on the daily frequency price volume and turnover rate data. The annual return rate of was 15%, the maximum retracement was 12% and the average annualized Sharpe was 1.2 in long-short backtest.
+
+
+**Probability Investment Management Co., Ltd.** | Quantitive Researcher | Shanghai 
+Jan 2021 - Mar 2022
+* **Low-frequency factor back-test platform construction**：Implemented low-frequency factor backtest-related indicators based on Python, such as: selecting the calculation of factor return, ic/rankic, cumulative return, alpha return, turnover rate, style exposure, and industry exposure under the long-short grouping according to different modes.
+* **Genetic Algorithm Factor Mining Project**：Used the genetic algorithm-based deap library for high-frequency or low-frequency factor mining, and designing different evaluation functions, mutation methods, and pruning and deduplication methods, the goal of searching for new factor combinations that provide alpha increments to existing factors is achieved.
+* **Hedging effect of investment portfolios exploring**: Explored how to better predict the hedging effect of investment portfolios.
+
+
+**Youtu Computer Vision Lab**, Tencent | Deep Learning and Computer Vision Intern |  Shanghai
 Oct 2018 - May 2019
-* Implemented state-of-the-art Human Key Points Detection model with Pytorch
-* Raise the recall rate of Human Key Points Detection on both business datasets and open datasets by 15%
+* Implemented state-of-the-art Human Key Points Detection model with Pytorch and combined it with Person ReID model then raised the recall rate of recognition on both business datasets (10,000 id with 250,000 images of person) by 6%-8%
+* Combined Human Parsing and Foreground Mask with Person Re-ID to promote the performance of identification based on ‘mask guided attention’ thought.
 
 
 **NSG Department, Intel** Shanghai | SSD Validation Intern
@@ -61,13 +70,13 @@ Jun 2017 - Dec 2017
 * Wrote SSD test script using Python
 * Used MATLAB and Python to analyze SSD business trend and sales
 
+
 ## Professional Skills
 * Solid **mathematical derivation ability** and good comprehension of **machine learning theory**
 * English (fluent) and Chinese (native language）
-* Proficient in **Python, MATLAB, C/C++** and specialized in **TensorFlow, Pytorch and Keras**
+* Proficient in **Python** and basic knowledge in **golang, C/C++**
+
 
 ## Contact Information
 * Private e-mail address: vincent_wq@outlook.com
-* School e-mail address(**valid before sept-2020**): s1946842@ed.ac.uk
-* Tel(in UK, **valid before sept-2020**): (+44)07780280823
 * Tel(in China):(+86)15821936809
